@@ -1,0 +1,21 @@
+.menu-item-image {
+    border-bottom: 2px solid black;
+}
+
+.menu-item-name {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.menu-item-description {
+    margin: 0 7px;
+}
+
+.menu-item-price {
+    font-size: 1.1em;
+    margin: .6em 0;
+    text-align: center;
+}
+
+.add-button-div {
+    margin-bottom: 15px;
+}
